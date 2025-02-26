@@ -1,0 +1,312 @@
+mine,mineLabel,mineral,mineralLabel,coordinates,lon,lat,country,countryLabel
+http://www.wikidata.org/entity/Q67078754,Novi Majdan mine,http://www.wikidata.org/entity/Q677,iron,Point(18.310402 44.70517),18.310402,44.70517,,
+http://www.wikidata.org/entity/Q67079817,Busovača mine,http://www.wikidata.org/entity/Q677,iron,Point(17.880317 44.097494),17.880317,44.097494,,
+http://www.wikidata.org/entity/Q67079822,Žeravica mine,http://www.wikidata.org/entity/Q677,iron,Point(17.254681 45.125714),17.254681,45.125714,,
+http://www.wikidata.org/entity/Q67078525,Sidirokastro mine,http://www.wikidata.org/entity/Q1090,silver,Point(23.393837 41.217993),23.393837,41.217993,,
+http://www.wikidata.org/entity/Q5064991,Cerro Vanguardia Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-68.26361111 -48.38583333),-68.26361111,-48.38583333,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q16002110,Agua Rica mine,http://www.wikidata.org/entity/Q1090,silver,Point(-66.31277778 -27.37333333),-66.31277778,-27.37333333,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q16976610,Manantial Espejo mine,http://www.wikidata.org/entity/Q1090,silver,Point(-69.5 -48.76666667),-69.5,-48.76666667,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q24451553,Q24451553,http://www.wikidata.org/entity/Q1090,silver,Point(-66.815555555 -24.364166666),-66.815555555,-24.364166666,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q25407086,Q25407086,http://www.wikidata.org/entity/Q1090,silver,Point(-69.178611111 -47.2875),-69.178611111,-47.2875,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q25412399,Q25412399,http://www.wikidata.org/entity/Q1090,silver,Point(-68.82 -42.415),-68.82,-42.415,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q29583300,Proyecto Chinchillas,http://www.wikidata.org/entity/Q1090,silver,Point(-66.256388888 -22.504444444),-66.256388888,-22.504444444,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q21503401,Q21503401,http://www.wikidata.org/entity/Q1090,silver,Point(-70.639166666 -37.184166666),-70.639166666,-37.184166666,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q21573855,Q21573855,http://www.wikidata.org/entity/Q1090,silver,Point(-70.2975 -46.6675),-70.2975,-46.6675,http://www.wikidata.org/entity/Q414,Argentina
+http://www.wikidata.org/entity/Q68403566,Cairn Hill mine,http://www.wikidata.org/entity/Q677,iron,Point(135.1 -29.3),135.1,-29.3,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1473809,Olympic Dam mine,http://www.wikidata.org/entity/Q1090,silver,Point(136.867 -30.4444),136.867,-30.4444,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1534991,Golden Grove Mine,http://www.wikidata.org/entity/Q1090,silver,Point(116.95 -28.7333),116.95,-28.7333,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q2112806,Prominent Hill Mine,http://www.wikidata.org/entity/Q1090,silver,Point(135.583 -29.7194),135.583,-29.7194,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q5063175,Century Mine,http://www.wikidata.org/entity/Q1090,silver,Point(138.6075 -18.72555556),138.6075,-18.72555556,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q7640657,Sunny Corner,http://www.wikidata.org/entity/Q1090,silver,Point(149.8844444 -33.381666666),149.8844444,-33.381666666,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q7991801,Wheal Watkins,http://www.wikidata.org/entity/Q1090,silver,Point(138.655447222 -34.961722222),138.655447222,-34.961722222,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q12053658,Broken Hill ore deposit,http://www.wikidata.org/entity/Q1090,silver,Point(141.45 -31.95),141.45,-31.95,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q12100817,George Fisher mine,http://www.wikidata.org/entity/Q1090,silver,Point(139.475 -20.5706),139.475,-20.5706,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q12100817,George Fisher mine,http://www.wikidata.org/entity/Q1090,silver,Point(139.475 -20.5503),139.475,-20.5503,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q12109576,Cannington Mine,http://www.wikidata.org/entity/Q1090,silver,Point(140.907 -21.8564),140.907,-21.8564,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q13218165,McArthur River zinc mine,http://www.wikidata.org/entity/Q1090,silver,Point(136.077 -16.4263),136.077,-16.4263,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q16966054,Wonawinta mine,http://www.wikidata.org/entity/Q1090,silver,Point(145.73944444 -32.23638889),145.73944444,-32.23638889,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q6921438,Mount Isa Mines,http://www.wikidata.org/entity/Q1090,silver,Point(139.476 -20.7161),139.476,-20.7161,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q6922260,Mount Morgan Mine,http://www.wikidata.org/entity/Q1090,silver,Point(150.375 -23.6411),150.375,-23.6411,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q112037447,Jaguar mine,http://www.wikidata.org/entity/Q1090,silver,Point(121.139135 -28.428038),121.139135,-28.428038,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q851630,Beverley Uranium Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(139.6046 -30.1933),139.6046,-30.1933,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1323375,Four Mile uranium mine,http://www.wikidata.org/entity/Q1098,uranium,Point(139.507 -30.1468),139.507,-30.1468,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1413953,Ranger Uranium Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(132.917 -12.6833),132.917,-12.6833,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1415200,Nabarlek Uranium Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(133.323 -12.3048),133.323,-12.3048,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1415200,Nabarlek Uranium Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(133.323888888 -12.3),133.323888888,-12.3,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1473809,Olympic Dam mine,http://www.wikidata.org/entity/Q1098,uranium,Point(136.867 -30.4444),136.867,-30.4444,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1492046,Kintyre uranium deposit,http://www.wikidata.org/entity/Q1098,uranium,Point(122.072 -22.338),122.072,-22.338,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1626869,Honeymoon Uranium Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(140.662 -31.7409),140.662,-31.7409,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1676844,Jabiluka,http://www.wikidata.org/entity/Q1098,uranium,Point(132.914 -12.4987),132.914,-12.4987,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q2126501,Radium Hill,http://www.wikidata.org/entity/Q1098,uranium,Point(140.667 -32.3),140.667,-32.3,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q2175585,Rum Jungle,http://www.wikidata.org/entity/Q1098,uranium,Point(131.017 -12.9833),131.017,-12.9833,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q8023460,Wiluna uranium mine,http://www.wikidata.org/entity/Q1098,uranium,Point(120.36 -26.834),120.36,-26.834,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q16969485,Lake Way mine,http://www.wikidata.org/entity/Q1098,uranium,Point(120.358 -26.7011),120.358,-26.7011,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q16976458,Lake Maitland mine,http://www.wikidata.org/entity/Q1098,uranium,Point(121.098 -27.1392),121.098,-27.1392,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q5352160,El Sherana,http://www.wikidata.org/entity/Q1098,uranium,Point(132.5209 -13.5094),132.5209,-13.5094,http://www.wikidata.org/entity/Q408,Australia
+http://www.wikidata.org/entity/Q1055970,Cerro Rico,http://www.wikidata.org/entity/Q1090,silver,Point(-65.749687 -19.618901),-65.749687,-19.618901,http://www.wikidata.org/entity/Q750,Bolivia
+http://www.wikidata.org/entity/Q5555501,San Cristóbal mine,http://www.wikidata.org/entity/Q1090,silver,Point(-67.209 -21.0937),-67.209,-21.0937,http://www.wikidata.org/entity/Q750,Bolivia
+http://www.wikidata.org/entity/Q67079829,Srebrenica mine,http://www.wikidata.org/entity/Q677,iron,Point(19.367693 44.136798),19.367693,44.136798,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084326,Vareš,http://www.wikidata.org/entity/Q677,iron,Point(18.327305 44.154693),18.327305,44.154693,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084432,Kreševo,http://www.wikidata.org/entity/Q677,iron,Point(18.034588 43.865617),18.034588,43.865617,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084688,Fojnica,http://www.wikidata.org/entity/Q677,iron,Point(17.896644 43.963827),17.896644,43.963827,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084748,Ostruznica,http://www.wikidata.org/entity/Q677,iron,Point(17.937391 43.969284),17.937391,43.969284,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084812,Čajniče,http://www.wikidata.org/entity/Q677,iron,Point(19.073618 43.556836),19.073618,43.556836,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084874,Daštansko,http://www.wikidata.org/entity/Q677,iron,Point(18.366632 44.145812),18.366632,44.145812,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67085240,Sebešić mine,http://www.wikidata.org/entity/Q677,iron,Point(17.72215 44.01815),17.72215,44.01815,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67119368,Kemengrad,http://www.wikidata.org/entity/Q677,iron,Point(16.664693 44.763965),16.664693,44.763965,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67079829,Srebrenica mine,http://www.wikidata.org/entity/Q1090,silver,Point(19.367693 44.136798),19.367693,44.136798,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084432,Kreševo,http://www.wikidata.org/entity/Q1090,silver,Point(18.034588 43.865617),18.034588,43.865617,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084495,Dezevica,http://www.wikidata.org/entity/Q1090,silver,Point(17.958202 43.85775),17.958202,43.85775,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084554,Dusina,http://www.wikidata.org/entity/Q1090,silver,Point(17.930658 43.877071),17.930658,43.877071,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084688,Fojnica,http://www.wikidata.org/entity/Q1090,silver,Point(17.896644 43.963827),17.896644,43.963827,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084748,Ostruznica,http://www.wikidata.org/entity/Q1090,silver,Point(17.937391 43.969284),17.937391,43.969284,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q67084874,Daštansko,http://www.wikidata.org/entity/Q1090,silver,Point(18.366632 44.145812),18.366632,44.145812,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q16979104,Letlhakane mine,http://www.wikidata.org/entity/Q1098,uranium,Point(27.2015 -21.8572),27.2015,-21.8572,http://www.wikidata.org/entity/Q963,Botswana
+http://www.wikidata.org/entity/Q6914173,Morro Velho,http://www.wikidata.org/entity/Q871,arsenic,Point(-43.51 -19.59),-43.51,-19.59,http://www.wikidata.org/entity/Q155,Brazil
+http://www.wikidata.org/entity/Q9667334,Q9667334,http://www.wikidata.org/entity/Q677,iron,Point(-43.3778 -19.8583),-43.3778,-19.8583,http://www.wikidata.org/entity/Q155,Brazil
+http://www.wikidata.org/entity/Q16509642,Q16509642,http://www.wikidata.org/entity/Q677,iron,Point(-43.2491 -19.6305),-43.2491,-19.6305,http://www.wikidata.org/entity/Q155,Brazil
+http://www.wikidata.org/entity/Q6914173,Morro Velho,http://www.wikidata.org/entity/Q1090,silver,Point(-43.51 -19.59),-43.51,-19.59,http://www.wikidata.org/entity/Q155,Brazil
+http://www.wikidata.org/entity/Q19951134,Q19951134,http://www.wikidata.org/entity/Q1098,uranium,Point(-42.2937 -13.8339),-42.2937,-13.8339,http://www.wikidata.org/entity/Q155,Brazil
+http://www.wikidata.org/entity/Q67152220,Q67152220,http://www.wikidata.org/entity/Q1090,silver,Point(22.874421 42.766234),22.874421,42.766234,http://www.wikidata.org/entity/Q219,Bulgaria
+http://www.wikidata.org/entity/Q67152530,Chiprovtsi,http://www.wikidata.org/entity/Q1090,silver,Point(22.991869 43.497194),22.991869,43.497194,http://www.wikidata.org/entity/Q219,Bulgaria
+http://www.wikidata.org/entity/Q1001646,Faro,http://www.wikidata.org/entity/Q1090,silver,Point(-133.333055555 62.233055555),-133.333055555,62.233055555,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q1254679,Eldorado Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-118.038 66.085),-118.038,66.085,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q4865658,Barton Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.786 47.1191),-79.786,47.1191,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q4876291,Beanland Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.8263 47.0916),-79.8263,47.0916,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q4905543,Big Dan Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.7747 47.0913),-79.7747,47.0913,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q4929179,Blue Hawk Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-119.516 49.9839),-119.516,49.9839,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q4985788,Buffalo Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.6942 47.395),-79.6942,47.395,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5161017,Coniagas Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.68888889 47.39861111),-79.68888889,47.39861111,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5168825,Copperfields mine,http://www.wikidata.org/entity/Q1090,silver,Point(-80.037784972 46.962417),-80.037784972,46.962417,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7064141,Nova Scotia Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.66167 47.38694),-79.66167,47.38694,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7242880,Priest Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.966 46.8658),-79.966,46.8658,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7636415,Sullivan Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-115.988687 49.688312),-115.988687,49.688312,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7697969,Temagami-Lorrain Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.6828 47.1111),-79.6828,47.1111,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7697977,Temagami Occurrence,http://www.wikidata.org/entity/Q1090,silver,Point(-79.8378 47.0916),-79.8378,47.0916,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7838868,Trethewey Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.68527778 47.4),-79.68527778,47.4,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q14875421,Silver Centre,http://www.wikidata.org/entity/Q1090,silver,Point(-79.5 47.2),-79.5,47.2,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q14875621,Murray Brook Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-66.553 47.504),-66.553,47.504,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q15071741,Gold Harbour,http://www.wikidata.org/entity/Q1090,silver,Point(-132.05 52.7833),-132.05,52.7833,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5219987,Danlou Occurrence,http://www.wikidata.org/entity/Q1090,silver,Point(-79.7424 47.1523),-79.7424,47.1523,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5290004,Dome Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-81.2333 48.45),-81.2333,48.45,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5928567,Hudson Bay Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.6847 47.4042),-79.6847,47.4042,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q6382783,Keeley-Frontier mine,http://www.wikidata.org/entity/Q1090,silver,Point(-79.50556 47.19917),-79.50556,47.19917,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q107627530,Duck Pond mine,http://www.wikidata.org/entity/Q1090,silver,Point(-56.488775 48.643941666),-56.488775,48.643941666,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q107703678,Mount Polley mine,http://www.wikidata.org/entity/Q1090,silver,Point(-121.600555555 52.519444444),-121.600555555,52.519444444,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q1091857,Cigar Lake Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-104.541 58.0686),-104.541,58.0686,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q1254679,Eldorado Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-118.038 66.085),-118.038,66.085,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q1345630,McArthur River uranium mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-105.053888888 57.762222222),-105.053888888,57.762222222,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q4813168,Athabasca Basin,http://www.wikidata.org/entity/Q1098,uranium,Point(-108.332 58.446),-108.332,58.446,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q4983333,Buckles Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.5891 46.3761),-82.5891,46.3761,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5029010,Can-Met Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.5458 46.4776),-82.5458,46.4776,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5136592,Cluff Lake mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-109.6053 58.3545),-109.6053,58.3545,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7130813,Panel Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.6333 46.3833),-82.6333,46.3833,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7249959,Pronto Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.71 46.21),-82.71,46.21,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7272593,Quirke Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.6321 46.5112),-82.6321,46.5112,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7278607,Rabbit Lake mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-103.714 58.1978),-103.714,58.1978,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7299368,Rayrock Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-116.551 63.4439),-116.551,63.4439,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7573141,Spanish American Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.5849 46.4761),-82.5849,46.4761,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7599386,Stanleigh Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.6374 46.4135),-82.6374,46.4135,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7600168,Stanrock Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.5598 46.4723),-82.5598,46.4723,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q16890943,Eldorado Mine (Saskatchewan),http://www.wikidata.org/entity/Q1098,uranium,Point(-108.48 59.55),-108.48,59.55,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q7050711,Nordic Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.5864 46.3799),-82.5864,46.3799,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5257822,Denison Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.6002 46.4956),-82.6002,46.4956,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q5619083,Gunnar Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-108.887 59.385),-108.887,59.385,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q6398054,Key Lake mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-105.659 57.2067),-105.659,57.2067,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q6468763,Lacnor Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.6079 46.3951),-82.6079,46.3951,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q6678714,Lorado Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-108.65 59.49),-108.65,59.49,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q6726558,Madawaska Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-77.9209 45.0226),-77.9209,45.0226,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q6800296,McClean Lake mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-103.802 58.2611),-103.802,58.2611,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q6859642,Milliken Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-82.6278 46.4036),-82.6278,46.4036,http://www.wikidata.org/entity/Q16,Canada
+http://www.wikidata.org/entity/Q450443,Chañarcillo,http://www.wikidata.org/entity/Q1090,silver,Point(-70.415555555 -27.811666666),-70.415555555,-27.811666666,http://www.wikidata.org/entity/Q298,Chile
+http://www.wikidata.org/entity/Q1670813,Pascua Lama,http://www.wikidata.org/entity/Q1090,silver,Point(-70.01916667 -29.31944444),-70.01916667,-29.31944444,http://www.wikidata.org/entity/Q298,Chile
+http://www.wikidata.org/entity/Q16256407,Candelaria mine,http://www.wikidata.org/entity/Q1090,silver,Point(-70.2874 -27.5096),-70.2874,-27.5096,http://www.wikidata.org/entity/Q298,Chile
+http://www.wikidata.org/entity/Q16532756,Arqueros,http://www.wikidata.org/entity/Q1090,silver,Point(-70.953 -29.839333333),-70.953,-29.839333333,http://www.wikidata.org/entity/Q298,Chile
+http://www.wikidata.org/entity/Q5276584,Dikulushi Mine,http://www.wikidata.org/entity/Q1090,silver,Point(28.27264 -8.893901),28.27264,-8.893901,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+http://www.wikidata.org/entity/Q11871234,Kevitsa mine,http://www.wikidata.org/entity/Q1089,palladium,Point(26.96361111 67.69083333),26.96361111,67.69083333,http://www.wikidata.org/entity/Q33,Finland
+http://www.wikidata.org/entity/Q1577492,Pyhäsalmi Mine,http://www.wikidata.org/entity/Q1090,silver,Point(26.03472222 63.66111111),26.03472222,63.66111111,http://www.wikidata.org/entity/Q33,Finland
+http://www.wikidata.org/entity/Q3314912,Le Rancié Mine,http://www.wikidata.org/entity/Q677,iron,Point(1.526111111 42.765277777),1.526111111,42.765277777,http://www.wikidata.org/entity/Q142,France
+http://www.wikidata.org/entity/Q11936809,Mina de Glorianes,http://www.wikidata.org/entity/Q1090,silver,Point(2.55166667 42.61),2.55166667,42.61,http://www.wikidata.org/entity/Q142,France
+http://www.wikidata.org/entity/Q114678383,mine d'Alzen,http://www.wikidata.org/entity/Q1090,silver,Point(1.47467 42.99617),1.47467,42.99617,http://www.wikidata.org/entity/Q142,France
+http://www.wikidata.org/entity/Q17007079,Chiatura mine,http://www.wikidata.org/entity/Q731,manganese,Point(43.283333333 42.25),43.283333333,42.25,http://www.wikidata.org/entity/Q230,Georgia
+http://www.wikidata.org/entity/Q1549886,Caroline Pit,http://www.wikidata.org/entity/Q1090,silver,Point(7.91911 48.1256),7.91911,48.1256,http://www.wikidata.org/entity/Q151624,German Confederation
+http://www.wikidata.org/entity/Q1549886,Caroline Pit,http://www.wikidata.org/entity/Q1090,silver,Point(7.91911 48.1256),7.91911,48.1256,http://www.wikidata.org/entity/Q1206012,German Reich
+http://www.wikidata.org/entity/Q1550011,Huth Pit,http://www.wikidata.org/entity/Q677,iron,Point(7.68614 50.7646),7.68614,50.7646,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1890173,Q1890173,http://www.wikidata.org/entity/Q731,manganese,Point(7.42712 50.0537),7.42712,50.0537,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q15924404,Bergwerk Mausbach,http://www.wikidata.org/entity/Q731,manganese,Point(8.73118 49.42778),8.73118,49.42778,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1019074,Q1019074,http://www.wikidata.org/entity/Q1090,silver,Point(7.91667 51.2167),7.91667,51.2167,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1418359,Finstergrund,http://www.wikidata.org/entity/Q1090,silver,Point(7.9032 47.832897222),7.9032,47.832897222,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1549886,Caroline Pit,http://www.wikidata.org/entity/Q1090,silver,Point(7.91911 48.1256),7.91911,48.1256,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1549970,Glasebach Pit,http://www.wikidata.org/entity/Q1090,silver,Point(11.0608 51.6125),11.0608,51.6125,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1550003,Holzappel mine,http://www.wikidata.org/entity/Q1090,silver,Point(7.89278 50.3408),7.89278,50.3408,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1550103,Mine Rosenhof,http://www.wikidata.org/entity/Q1090,silver,Point(10.32407 51.80466),10.32407,51.80466,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1550106,Samson Pit,http://www.wikidata.org/entity/Q1090,silver,Point(10.5161 51.7131),10.5161,51.7131,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1550146,Wenzel Pit,http://www.wikidata.org/entity/Q1090,silver,Point(8.205833333 48.32),8.205833333,48.32,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q1550145,Grube Wennsglückt,http://www.wikidata.org/entity/Q1090,silver,Point(10.5274 51.7121),10.5274,51.7121,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q15119177,Maaßener Gaipel,http://www.wikidata.org/entity/Q1090,silver,Point(10.28972222 51.86388889),10.28972222,51.86388889,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q15388112,Besucherbergwerk Segen Gottes,http://www.wikidata.org/entity/Q1090,silver,Point(8.085385 48.292168),8.085385,48.292168,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q15926110,Grube Marie in der Kohlbach,http://www.wikidata.org/entity/Q1090,silver,Point(8.68044 49.51564),8.68044,49.51564,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q47081165,Grube St. Georg,http://www.wikidata.org/entity/Q1090,silver,Point(10.528258 51.707461),10.528258,51.707461,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q47083025,Grube St. Andreaskreuz,http://www.wikidata.org/entity/Q1090,silver,Point(10.522769 51.708063),10.522769,51.708063,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q47083025,Grube St. Andreaskreuz,http://www.wikidata.org/entity/Q1090,silver,Point(10.522325 51.708438),10.522325,51.708438,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q47083451,Grube Gnade Gottes,http://www.wikidata.org/entity/Q1090,silver,Point(10.515594 51.711891),10.515594,51.711891,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q47086824,Grube Silberner Bär,http://www.wikidata.org/entity/Q1090,silver,Point(10.524642 51.7103543),10.524642,51.7103543,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q47086974,Grube Neuer Gideon,http://www.wikidata.org/entity/Q1090,silver,Point(10.526377 51.712363),10.526377,51.712363,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q47086990,Grube St. Jacobsglück,http://www.wikidata.org/entity/Q1090,silver,Point(10.526602 51.709986),10.526602,51.709986,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q21821383,Grube St. Andreas,http://www.wikidata.org/entity/Q1090,silver,Point(10.5136869 51.7094484),10.5136869,51.7094484,http://www.wikidata.org/entity/Q183,Germany
+http://www.wikidata.org/entity/Q3314937,Mines of Laurium,http://www.wikidata.org/entity/Q1090,silver,Point(24.039891 37.712252),24.039891,37.712252,http://www.wikidata.org/entity/Q41,Greece
+http://www.wikidata.org/entity/Q7508423,Siderocausa,http://www.wikidata.org/entity/Q1090,silver,Point(23.78333333 40.51666667),23.78333333,40.51666667,http://www.wikidata.org/entity/Q41,Greece
+http://www.wikidata.org/entity/Q16965005,Stratoni mine,http://www.wikidata.org/entity/Q1090,silver,Point(23.7856579 40.5228034),23.7856579,40.5228034,http://www.wikidata.org/entity/Q41,Greece
+http://www.wikidata.org/entity/Q5351608,El Mochito mine,http://www.wikidata.org/entity/Q1090,silver,Point(-88.08333 14.83333),-88.08333,14.83333,http://www.wikidata.org/entity/Q783,Honduras
+http://www.wikidata.org/entity/Q3595249,Tummalapalle uranium mine,http://www.wikidata.org/entity/Q1098,uranium,Point(78.23 14.41),78.23,14.41,http://www.wikidata.org/entity/Q668,India
+http://www.wikidata.org/entity/Q15229130,Jaduguda Uranium Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(86.22 22.39),86.22,22.39,http://www.wikidata.org/entity/Q668,India
+http://www.wikidata.org/entity/Q1058647,Chadormalu,http://www.wikidata.org/entity/Q677,iron,Point(55.52777778 32.3175),55.52777778,32.3175,http://www.wikidata.org/entity/Q794,Iran
+http://www.wikidata.org/entity/Q24035685,Shiromaru mine,http://www.wikidata.org/entity/Q731,manganese,Point(139.125 35.808333333),139.125,35.808333333,http://www.wikidata.org/entity/Q17,Japan
+http://www.wikidata.org/entity/Q174139,Iwami Ginzan Silver Mine,http://www.wikidata.org/entity/Q1090,silver,Point(132.4375 35.107222),132.4375,35.107222,http://www.wikidata.org/entity/Q17,Japan
+http://www.wikidata.org/entity/Q3314832,Toi gold mine,http://www.wikidata.org/entity/Q1090,silver,Point(138.793 34.9082),138.793,34.9082,http://www.wikidata.org/entity/Q17,Japan
+http://www.wikidata.org/entity/Q11248197,Sado mine,http://www.wikidata.org/entity/Q1090,silver,Point(138.256 38.0416),138.256,38.0416,http://www.wikidata.org/entity/Q17,Japan
+http://www.wikidata.org/entity/Q11620166,Hishikari mine,http://www.wikidata.org/entity/Q1090,silver,Point(130.6916 32.0125),130.6916,32.0125,http://www.wikidata.org/entity/Q17,Japan
+http://www.wikidata.org/entity/Q11620166,Hishikari mine,http://www.wikidata.org/entity/Q1090,silver,Point(130.69388889 32.0125),130.69388889,32.0125,http://www.wikidata.org/entity/Q17,Japan
+http://www.wikidata.org/entity/Q75178770,Q75178770,http://www.wikidata.org/entity/Q1090,silver,Point(139.980444444 40.405305555),139.980444444,40.405305555,http://www.wikidata.org/entity/Q17,Japan
+http://www.wikidata.org/entity/Q6429620,Konomai gold mine,http://www.wikidata.org/entity/Q1090,silver,Point(143.352527777 44.12525),143.352527777,44.12525,http://www.wikidata.org/entity/Q17,Japan
+http://www.wikidata.org/entity/Q1627371,Inkai Uranium Project,http://www.wikidata.org/entity/Q1098,uranium,Point(67.536563 45.282133),67.536563,45.282133,http://www.wikidata.org/entity/Q232,Kazakhstan
+http://www.wikidata.org/entity/Q16002289,Akbastau mine,http://www.wikidata.org/entity/Q1098,uranium,Point(67.580667 44.712538),67.580667,44.712538,http://www.wikidata.org/entity/Q232,Kazakhstan
+http://www.wikidata.org/entity/Q16002293,Akdala mine,http://www.wikidata.org/entity/Q1098,uranium,Point(68.40213 45.64721),68.40213,45.64721,http://www.wikidata.org/entity/Q232,Kazakhstan
+http://www.wikidata.org/entity/Q16976752,Karatau mine,http://www.wikidata.org/entity/Q1098,uranium,Point(68.149 44.343),68.149,44.343,http://www.wikidata.org/entity/Q232,Kazakhstan
+http://www.wikidata.org/entity/Q16977734,South Inkai mine,http://www.wikidata.org/entity/Q1098,uranium,Point(67.495 45.168),67.495,45.168,http://www.wikidata.org/entity/Q232,Kazakhstan
+http://www.wikidata.org/entity/Q16978366,Kharasan mine,http://www.wikidata.org/entity/Q1098,uranium,Point(66.859928 43.843028),66.859928,43.843028,http://www.wikidata.org/entity/Q232,Kazakhstan
+http://www.wikidata.org/entity/Q16979252,Zarechnoye mine,http://www.wikidata.org/entity/Q1098,uranium,Point(68.011077 42.283057),68.011077,42.283057,http://www.wikidata.org/entity/Q232,Kazakhstan
+http://www.wikidata.org/entity/Q62593365,Rudnik Lece,http://www.wikidata.org/entity/Q1090,silver,Point(21.535 42.928),21.535,42.928,http://www.wikidata.org/entity/Q15102440,"Kingdom of Serbs, Croats and Slovenes"
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q731,manganese,Point(20.91805556 42.93916667),20.91805556,42.93916667,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q731,manganese,Point(21.231 42.604),21.231,42.604,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q731,manganese,Point(21.428 42.62),21.428,42.62,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q731,manganese,Point(21.422 42.68),21.422,42.68,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q1090,silver,Point(20.91805556 42.93916667),20.91805556,42.93916667,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q1090,silver,Point(21.231 42.604),21.231,42.604,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q1090,silver,Point(21.428 42.62),21.428,42.62,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q1090,silver,Point(21.422 42.68),21.422,42.68,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q7064945,Novo Brdo mine,http://www.wikidata.org/entity/Q1090,silver,Point(21.44223 42.609327),21.44223,42.609327,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q62593365,Rudnik Lece,http://www.wikidata.org/entity/Q1090,silver,Point(21.535 42.928),21.535,42.928,http://www.wikidata.org/entity/Q1246,Kosovo
+http://www.wikidata.org/entity/Q67081001,Zletovo,http://www.wikidata.org/entity/Q1090,silver,Point(22.234676004 41.987056093),22.234676004,41.987056093,http://www.wikidata.org/entity/Q103251,Macedonia
+http://www.wikidata.org/entity/Q3443142,Q3443142,http://www.wikidata.org/entity/Q677,iron,Point(-12.58167 22.68056),-12.58167,22.68056,http://www.wikidata.org/entity/Q1025,Mauritania
+http://www.wikidata.org/entity/Q16001300,A238 mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-11.28333333 24.88333333),-11.28333333,24.88333333,http://www.wikidata.org/entity/Q1025,Mauritania
+http://www.wikidata.org/entity/Q5350829,El Boleo,http://www.wikidata.org/entity/Q731,manganese,Point(-112.28333 27.31667),-112.28333,27.31667,http://www.wikidata.org/entity/Q96,Mexico
+http://www.wikidata.org/entity/Q1639253,Naica Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-105.506666666 27.845277777),-105.506666666,27.845277777,http://www.wikidata.org/entity/Q96,Mexico
+http://www.wikidata.org/entity/Q7179701,Peñasquito Polymetallic Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-101.47666667 24.86194444),-101.47666667,24.86194444,http://www.wikidata.org/entity/Q96,Mexico
+http://www.wikidata.org/entity/Q16255741,Buenavista mine,http://www.wikidata.org/entity/Q1090,silver,Point(-110.33138889 30.96055556),-110.33138889,30.96055556,http://www.wikidata.org/entity/Q96,Mexico
+http://www.wikidata.org/entity/Q16964890,Dolores mine,http://www.wikidata.org/entity/Q1090,silver,Point(-108.536194444 28.989388888),-108.536194444,28.989388888,http://www.wikidata.org/entity/Q96,Mexico
+http://www.wikidata.org/entity/Q6862719,Mina Proaño,http://www.wikidata.org/entity/Q1090,silver,Point(-102.873 23.162),-102.873,23.162,http://www.wikidata.org/entity/Q96,Mexico
+http://www.wikidata.org/entity/Q16979622,Noche Buena mine,http://www.wikidata.org/entity/Q1090,silver,Point(-101.668055555 24.7),-101.668055555,24.7,http://www.wikidata.org/entity/Q96,Mexico
+http://www.wikidata.org/entity/Q27567580,Brskovo,http://www.wikidata.org/entity/Q1090,silver,Point(19.614166666 42.952777777),19.614166666,42.952777777,http://www.wikidata.org/entity/Q236,Montenegro
+http://www.wikidata.org/entity/Q1504704,Rössing uranium mine,http://www.wikidata.org/entity/Q1098,uranium,Point(15.04888889 -22.48416667),15.04888889,-22.48416667,http://www.wikidata.org/entity/Q1030,Namibia
+http://www.wikidata.org/entity/Q1791607,Langer Heinrich mine,http://www.wikidata.org/entity/Q1098,uranium,Point(15.32430556 -22.81347222),15.32430556,-22.81347222,http://www.wikidata.org/entity/Q1030,Namibia
+http://www.wikidata.org/entity/Q1791607,Langer Heinrich mine,http://www.wikidata.org/entity/Q1098,uranium,Point(15.3338 -22.8147),15.3338,-22.8147,http://www.wikidata.org/entity/Q1030,Namibia
+http://www.wikidata.org/entity/Q1791607,Langer Heinrich mine,http://www.wikidata.org/entity/Q1098,uranium,Point(15.3287 -22.8112),15.3287,-22.8112,http://www.wikidata.org/entity/Q1030,Namibia
+http://www.wikidata.org/entity/Q16965853,Ida Dome mine,http://www.wikidata.org/entity/Q1098,uranium,Point(15.014167 -22.612222),15.014167,-22.612222,http://www.wikidata.org/entity/Q1030,Namibia
+http://www.wikidata.org/entity/Q16975819,Husab mine,http://www.wikidata.org/entity/Q1098,uranium,Point(15.014166666 -22.612222222),15.014166666,-22.612222222,http://www.wikidata.org/entity/Q1030,Namibia
+http://www.wikidata.org/entity/Q16976272,Valencia mine,http://www.wikidata.org/entity/Q1098,uranium,Point(15.235205 -22.346345),15.235205,-22.346345,http://www.wikidata.org/entity/Q1030,Namibia
+http://www.wikidata.org/entity/Q1903078,Martha Mine,http://www.wikidata.org/entity/Q1090,silver,Point(175.84247222 -37.38548056),175.84247222,-37.38548056,http://www.wikidata.org/entity/Q664,New Zealand
+http://www.wikidata.org/entity/Q5579303,Golden Cross mine,http://www.wikidata.org/entity/Q1090,silver,Point(175.774284 -37.342321),175.774284,-37.342321,http://www.wikidata.org/entity/Q664,New Zealand
+http://www.wikidata.org/entity/Q3314826,Imouraren mine,http://www.wikidata.org/entity/Q1098,uranium,Point(7.44083333 18.09055556),7.44083333,18.09055556,http://www.wikidata.org/entity/Q1032,Niger
+http://www.wikidata.org/entity/Q16251712,Arlit mine,http://www.wikidata.org/entity/Q1098,uranium,Point(7.3128 18.7515),7.3128,18.7515,http://www.wikidata.org/entity/Q1032,Niger
+http://www.wikidata.org/entity/Q67080970,Kratovo,http://www.wikidata.org/entity/Q1090,silver,Point(22.180099 42.078829),22.180099,42.078829,http://www.wikidata.org/entity/Q221,North Macedonia
+http://www.wikidata.org/entity/Q111753045,Borov Dol mine,http://www.wikidata.org/entity/Q1090,silver,Point(22.3475 41.604444444),22.3475,41.604444444,http://www.wikidata.org/entity/Q221,North Macedonia
+http://www.wikidata.org/entity/Q2104436,Porgera Gold Mine,http://www.wikidata.org/entity/Q1090,silver,Point(143.1048 -5.4646),143.1048,-5.4646,http://www.wikidata.org/entity/Q691,Papua New Guinea
+http://www.wikidata.org/entity/Q7081683,Ok Tedi Mine,http://www.wikidata.org/entity/Q1090,silver,Point(141.18366111 -5.24053611),141.18366111,-5.24053611,http://www.wikidata.org/entity/Q691,Papua New Guinea
+http://www.wikidata.org/entity/Q19966796,Pampa de Pongo,http://www.wikidata.org/entity/Q677,iron,Point(-74.836923 -15.397075),-74.836923,-15.397075,http://www.wikidata.org/entity/Q419,Peru
+http://www.wikidata.org/entity/Q7419181,Santa Ana mine,http://www.wikidata.org/entity/Q1090,silver,Point(-69.31885 -16.66027),-69.31885,-16.66027,http://www.wikidata.org/entity/Q419,Peru
+http://www.wikidata.org/entity/Q16567758,Liczyrzepa mine,http://www.wikidata.org/entity/Q1098,uranium,Point(15.847173 50.7591698),15.847173,50.7591698,http://www.wikidata.org/entity/Q36,Poland
+http://www.wikidata.org/entity/Q131317465,Ervedosa mine,http://www.wikidata.org/entity/Q871,arsenic,Point(-7.095854348 41.729347149),-7.095854348,41.729347149,http://www.wikidata.org/entity/Q45,Portugal
+http://www.wikidata.org/entity/Q107389975,Q107389975,http://www.wikidata.org/entity/Q731,manganese,Point(-8.064055555 37.633111111),-8.064055555,37.633111111,http://www.wikidata.org/entity/Q45,Portugal
+http://www.wikidata.org/entity/Q5005372,Băița mine,http://www.wikidata.org/entity/Q1098,uranium,Point(22.62833333 46.48),22.62833333,46.48,http://www.wikidata.org/entity/Q218,Romania
+http://www.wikidata.org/entity/Q5189760,Crucea – Botușana mine,http://www.wikidata.org/entity/Q1098,uranium,Point(25.612006625 47.351249527),25.612006625,47.351249527,http://www.wikidata.org/entity/Q218,Romania
+http://www.wikidata.org/entity/Q16948421,Usinskoe mine,http://www.wikidata.org/entity/Q731,manganese,Point(88.70917 54.01194),88.70917,54.01194,http://www.wikidata.org/entity/Q159,Russia
+http://www.wikidata.org/entity/Q4247510,Kupol Gold Mine,http://www.wikidata.org/entity/Q1090,silver,Point(169.5425 66.790277777),169.5425,66.790277777,http://www.wikidata.org/entity/Q159,Russia
+http://www.wikidata.org/entity/Q16965509,Goltsovoye mine,http://www.wikidata.org/entity/Q1090,silver,Point(155.653611111 62.009444444),155.653611111,62.009444444,http://www.wikidata.org/entity/Q159,Russia
+http://www.wikidata.org/entity/Q16969361,Derbeke-Nelgesinsky mine,http://www.wikidata.org/entity/Q1090,silver,Point(136.5 68.25),136.5,68.25,http://www.wikidata.org/entity/Q159,Russia
+http://www.wikidata.org/entity/Q4531510,Elkon mine,http://www.wikidata.org/entity/Q1098,uranium,Point(126.25 58.56666667),126.25,58.56666667,http://www.wikidata.org/entity/Q159,Russia
+http://www.wikidata.org/entity/Q16977735,Priargunsky mine,http://www.wikidata.org/entity/Q1098,uranium,Point(118.012271 50.172219),118.012271,50.172219,http://www.wikidata.org/entity/Q159,Russia
+http://www.wikidata.org/entity/Q65314936,Trepča,http://www.wikidata.org/entity/Q677,iron,Point(20.92274 42.939882),20.92274,42.939882,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080168,Kovaci,http://www.wikidata.org/entity/Q677,iron,Point(20.728783 43.425195),20.728783,43.425195,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080175,Plana,http://www.wikidata.org/entity/Q677,iron,Point(20.716624 43.45028),20.716624,43.45028,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080193,Livađe,http://www.wikidata.org/entity/Q677,iron,Point(20.89716 43.320361),20.89716,43.320361,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67081847,Gluhavica mine,http://www.wikidata.org/entity/Q677,iron,Point(20.384586 43.069058),20.384586,43.069058,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67085397,Železnik,http://www.wikidata.org/entity/Q677,iron,Point(21.674258 44.476653),21.674258,44.476653,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67085470,Rudna glava,http://www.wikidata.org/entity/Q677,iron,Point(21.97517 44.237759),21.97517,44.237759,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67152394,Brodica,http://www.wikidata.org/entity/Q677,iron,Point(21.906289 44.478708),21.906289,44.478708,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q731,manganese,Point(20.91805556 42.93916667),20.91805556,42.93916667,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q731,manganese,Point(21.231 42.604),21.231,42.604,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q731,manganese,Point(21.428 42.62),21.428,42.62,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q731,manganese,Point(21.422 42.68),21.422,42.68,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q1090,silver,Point(20.91805556 42.93916667),20.91805556,42.93916667,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q1090,silver,Point(21.231 42.604),21.231,42.604,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q1090,silver,Point(21.428 42.62),21.428,42.62,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q431588,Trepča Mines,http://www.wikidata.org/entity/Q1090,silver,Point(21.422 42.68),21.422,42.68,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q7064945,Novo Brdo mine,http://www.wikidata.org/entity/Q1090,silver,Point(21.44223 42.609327),21.44223,42.609327,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q62593365,Rudnik Lece,http://www.wikidata.org/entity/Q1090,silver,Point(21.535 42.928),21.535,42.928,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q62593429,Majdanpek,http://www.wikidata.org/entity/Q1090,silver,Point(21.944 44.38),21.944,44.38,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q62664418,RTB BOR,http://www.wikidata.org/entity/Q1090,silver,Point(22.007 44.291),22.007,44.291,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q65314936,Trepča,http://www.wikidata.org/entity/Q1090,silver,Point(20.92274 42.939882),20.92274,42.939882,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67079870,Krupanj mine,http://www.wikidata.org/entity/Q1090,silver,Point(19.363762 44.364202),19.363762,44.364202,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67079935,Rudište mine,http://www.wikidata.org/entity/Q1090,silver,Point(20.513129 44.694774),20.513129,44.694774,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67079985,Zajača mine,http://www.wikidata.org/entity/Q1090,silver,Point(19.250255 44.451179),19.250255,44.451179,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080033,Bohorina,http://www.wikidata.org/entity/Q1090,silver,Point(19.189206 44.420253),19.189206,44.420253,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080040,Trešnjica,http://www.wikidata.org/entity/Q1090,silver,Point(19.176312 44.335398),19.176312,44.335398,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080051,Crnča,http://www.wikidata.org/entity/Q1090,silver,Point(19.261249 44.302717),19.261249,44.302717,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080055,Lipnik,http://www.wikidata.org/entity/Q1090,silver,Point(19.276974 44.299477),19.276974,44.299477,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080137,Koporići,http://www.wikidata.org/entity/Q1090,silver,Point(20.871067 43.127357),20.871067,43.127357,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080141,Janjevo,http://www.wikidata.org/entity/Q1090,silver,Point(21.251713 42.575634),21.251713,42.575634,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080148,Belasica,http://www.wikidata.org/entity/Q1090,silver,Point(21.00548 43.119796),21.00548,43.119796,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080161,Ostraća,http://www.wikidata.org/entity/Q1090,silver,Point(20.752713 43.196559),20.752713,43.196559,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080168,Kovaci,http://www.wikidata.org/entity/Q1090,silver,Point(20.728783 43.425195),20.728783,43.425195,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080175,Plana,http://www.wikidata.org/entity/Q1090,silver,Point(20.716624 43.45028),20.716624,43.45028,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67080193,Livađe,http://www.wikidata.org/entity/Q1090,silver,Point(20.89716 43.320361),20.89716,43.320361,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67081665,Rogozna,http://www.wikidata.org/entity/Q1090,silver,Point(20.579999 43.013895),20.579999,43.013895,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67084624,Zaplanina,http://www.wikidata.org/entity/Q1090,silver,Point(20.870243 43.266264),20.870243,43.266264,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q67085303,Kučajna mine,http://www.wikidata.org/entity/Q1090,silver,Point(21.628029 44.440026),21.628029,44.440026,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q97126164,Q97126164,http://www.wikidata.org/entity/Q1090,silver,Point(22.135411 44.090466),22.135411,44.090466,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q97127721,Surface mine Majdanpek,http://www.wikidata.org/entity/Q1090,silver,Point(21.903501 44.423771),21.903501,44.423771,http://www.wikidata.org/entity/Q403,Serbia
+http://www.wikidata.org/entity/Q16254905,Black Rock mine,http://www.wikidata.org/entity/Q731,manganese,Point(22.83330556 -27.13330556),22.83330556,-27.13330556,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q16254905,Black Rock mine,http://www.wikidata.org/entity/Q731,manganese,Point(22.8375 -27.127777777),22.8375,-27.127777777,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q16963799,Nchwaning mines,http://www.wikidata.org/entity/Q731,manganese,Point(22.8380013 -27.1291952),22.8380013,-27.1291952,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q16963799,Nchwaning mines,http://www.wikidata.org/entity/Q731,manganese,Point(22.878055555 -27.137222222),22.878055555,-27.137222222,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q16999453,Wessels mine,http://www.wikidata.org/entity/Q731,manganese,Point(22.966666666 -27.2),22.966666666,-27.2,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q16999492,Mamatwan mine,http://www.wikidata.org/entity/Q731,manganese,Point(22.9812527 -27.3765691),22.9812527,-27.3765691,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q21839548,Hotazel mine,http://www.wikidata.org/entity/Q731,manganese,Point(22.9724121 -27.2063964),22.9724121,-27.2063964,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q16968936,South Deep uranium mine,http://www.wikidata.org/entity/Q1098,uranium,Point(27.666666666 -26.416666666),27.666666666,-26.416666666,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q16969104,Driefontein mine,http://www.wikidata.org/entity/Q1098,uranium,Point(27.50277778 -26.41972222),27.50277778,-26.41972222,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q16975881,Hartebeestfontein mine,http://www.wikidata.org/entity/Q1098,uranium,Point(26.8264 -26.8299),26.8264,-26.8299,http://www.wikidata.org/entity/Q258,South Africa
+http://www.wikidata.org/entity/Q3314825,Nasa silver mine,http://www.wikidata.org/entity/Q1090,silver,Point(15.40333333 66.47388889),15.40333333,66.47388889,http://www.wikidata.org/entity/Q34,Sweden
+http://www.wikidata.org/entity/Q7447147,Sekenke Gold Mine,http://www.wikidata.org/entity/Q1090,silver,Point(34.25 -3.95),34.25,-3.95,http://www.wikidata.org/entity/Q924,Tanzania
+http://www.wikidata.org/entity/Q107716058,South Terras mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-4.90529 50.33544),-4.90529,50.33544,http://www.wikidata.org/entity/Q145,United Kingdom
+http://www.wikidata.org/entity/Q60201947,Pioneer Mine,http://www.wikidata.org/entity/Q677,iron,Point(-91.860833333 47.911944444),-91.860833333,47.911944444,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q16251866,Artillery Peak mine,http://www.wikidata.org/entity/Q731,manganese,Point(-113.5696 34.345),-113.5696,34.345,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q16999929,Maple Mountain mine,http://www.wikidata.org/entity/Q731,manganese,Point(-68.014397 46.398419),-68.014397,46.398419,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q5132813,Cliff mine,http://www.wikidata.org/entity/Q1090,silver,Point(-88.3137 47.373),-88.3137,47.373,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q7376350,Ruby Mining District,http://www.wikidata.org/entity/Q1090,silver,Point(-119.737 48.5022),-119.737,48.5022,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q7546613,Smuggler Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-106.806 39.1925),-106.806,39.1925,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q7641530,Sunshine Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-116.066 47.5154),-116.066,47.5154,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q7655363,Sweet Home Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-106.119 39.3128),-106.119,39.3128,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q14680730,Silver King Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-111.089 33.3303),-111.089,33.3303,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q15223726,Hermosa mine,http://www.wikidata.org/entity/Q1090,silver,Point(-110.70972222 31.45611111),-110.70972222,31.45611111,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q16964983,Waterloo mine,http://www.wikidata.org/entity/Q1090,silver,Point(-110.65 46.5),-110.65,46.5,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q49396889,American Girl Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-114.786944444 32.855277777),-114.786944444,32.855277777,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q49404104,Cerro Colorado Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-111.2725 31.658888888),-111.2725,31.658888888,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q5599961,Great Sierra Mine Historic Site,http://www.wikidata.org/entity/Q1090,silver,Point(-119.268451501 37.927965822),-119.268451501,37.927965822,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q5736548,Hercules silver mine,http://www.wikidata.org/entity/Q1090,silver,Point(-115.81 47.5425),-115.81,47.5425,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q5890469,Homestake Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-114.596 35.2019),-114.596,35.2019,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q6016248,Independence mine,http://www.wikidata.org/entity/Q1090,silver,Point(-115.394166666 45.148888888),-115.394166666,45.148888888,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q6072749,Iron Mountain Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-122.528 40.6722),-122.528,40.6722,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q6502537,Lavender Pit,http://www.wikidata.org/entity/Q1090,silver,Point(-109.899166666 31.431944444),-109.899166666,31.431944444,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q6864549,Minesota Mine,http://www.wikidata.org/entity/Q1090,silver,Point(-89.17493333 46.72993333),-89.17493333,46.72993333,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q22060787,Troy Mine,http://www.wikidata.org/entity/Q1090,silver,http://www.wikidata.org/.well-known/genid/3eaceeef937d23cc671798be6246d836,http://www.wikidata.org/.well-known/genid/3eaceeef937d23cc671798be6246d836,http://www.wikidata.org/.well-known/genid/3eaceeef937d23cc671798be6246d836,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q4741884,Ambrosia Lake,http://www.wikidata.org/entity/Q1098,uranium,Point(-107.821 35.419),-107.821,35.419,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q5133645,Climax Uranium Mill,http://www.wikidata.org/entity/Q1098,uranium,Point(-108.554559 39.054629),-108.554559,39.054629,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q7545280,Smith Ranch-Highland,http://www.wikidata.org/entity/Q1098,uranium,Point(-105.685 43.0537),-105.685,43.0537,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q16833686,Arizona One mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-112.806 36.5078),-112.806,36.5078,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q16969107,Pine Nut mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-112.726 36.5136),-112.726,36.5136,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q16978192,Willow Creek mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-106.038 43.8031),-106.038,43.8031,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q87360402,Oyler Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-111.230833333 38.259166666),-111.230833333,38.259166666,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q5189072,Crow Butte,http://www.wikidata.org/entity/Q1098,uranium,Point(-103.357 42.6455),-103.357,42.6455,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q6842887,Midnite Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-118.093 47.9417),-118.093,47.9417,http://www.wikidata.org/entity/Q30,United States
+http://www.wikidata.org/entity/Q21714695,Sherwood Mine,http://www.wikidata.org/entity/Q1098,uranium,Point(-118.1165886 47.8747923),-118.1165886,47.8747923,http://www.wikidata.org/entity/Q30,United States
