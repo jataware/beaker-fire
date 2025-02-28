@@ -53,3 +53,15 @@ class BeakerMineralsContext(BeakerContext):
                     }
                 },
             }
+
+    async def setup(self, context_info=None, parent_header=None):
+        """
+        This runs on setup and invokes the `procedures/python3/setup.py` script to 
+        configure the environment appropriately.
+        """
+        command = "\n".join(
+            [
+            self.get_code("setup"),
+            ]
+        )
+        await self.execute(command)

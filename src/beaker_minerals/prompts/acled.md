@@ -21,7 +21,7 @@ print(f"Querying events from {start_date_str} to {end_date_str}")
 # ACLED API parameters
 params = {
     'email': os.getenv('ACLED_EMAIL'),
-    'key': os.getenv('ACLED_KEY'),
+    'key': os.getenv('ACLED_API'),
     'country': 'Ukraine',
     'event_date': f"{start_date_str}|{end_date_str}",
     'limit': 1000
@@ -35,7 +35,7 @@ print("\nAPI Response:")
 print(json.dumps(data, indent=2)[:1000]) 
 ```
 
-Note that you can expect to have access to the `ACLED_EMAIL` and `ACLED_KEY` environment variables and use them as such. You should note. 
+Note that you can expect to have access to the `ACLED_EMAIL` and `ACLED_API` environment variables and use them as such. You should note. 
 
 The API does have limits. owever, even when using query filters, the returned dataset may be very large. If you do not need every event defined by your query filters, you can limit the size of the returned file. In particular, you can specify the number of events in the returned data by including a limit statement in your URL (e.g., limit=2000 means you will receive data for 2000 events). Without a ‘limit’ in your URL, ACLED’s API will return a maximum of 5000 events. In cases where you are expecting events beyond the default limit, you are advised to use pagination which allows you to split your call into multiple smaller ones and ensure your call executes successfully. These calls do not count toward your API rate limits.
 
@@ -93,3 +93,5 @@ Here are the query filters available for ACLED:
 | timestamp | >= | ?timestamp={number or yyyy-mm-dd} |
 | export_type | = | ?export_type={text} |
 | population | = | ?population={TRUE&#124;full} |
+
+If you fetch a lot of data (e.g., more than 100 events) and want to plot it, you should use Datashader to plot it since there are just too many points to plot with Folium in active conflict zones (such as Ukraine).

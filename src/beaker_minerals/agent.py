@@ -45,7 +45,7 @@ class BeakerMineralsAgent(BeakerAgent):
         
         # Read remaining .md files
         for file in os.listdir(prompts_dir):
-            if file.endswith('.md') and file != 'agent.md':
+            if file.endswith('.md') and file != 'agent.md' and file != 'acled.md': 
                 with open(os.path.join(prompts_dir, file), 'r') as f:
                     self.add_context(f.read())
 

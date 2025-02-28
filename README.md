@@ -8,5 +8,6 @@ A beaker agent for critical mineral supply chain research.
 - Mine and Port location data from Wikidata
 - [ACLED](https://acleddata.com/)
 - [MRDS](https://minerals.usgs.gov/minerals/pubs/commodity/mrds/)
+- [UN Comtrade](https://comtrade.un.org/)
 
 Note you need to set the `ACLED_KEY` and `ACLED_EMAIL` environment variables to use the ACLED API. (See `env.sample` for more information.)

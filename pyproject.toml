@@ -30,6 +30,13 @@ dependencies = [
   "seaborn~=0.13.2",
   "plotly~=6.0.0", 
   "matplotlib~=3.10.0",
+  "datashader~=0.17.0",
+  "holoviews",
+  "geoviews",
+  "cartopy",
+  "geopandas",
+  "spatialpandas",
+  "bokeh",
 ]
 
 [project.urls]

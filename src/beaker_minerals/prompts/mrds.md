@@ -43,3 +43,68 @@ def extract_coords(point_str):
     return None, None
 ```    
 
+You can use folium to create a nice colored heat map of the mineral sites (e.g. for Ukraine) with:
+
+```python
+import pandas as pd
+import folium
+from folium import plugins
+import numpy as np
+
+# Create a color map for the top commodities
+def get_commodity_color(commodity):
+    color_map = {
+        'Potassium': 'red',
+        'Iron': 'blue',
+        'Manganese': 'green',
+        'Titanium': 'purple',
+        'Copper': 'orange',
+        'Holmium': 'yellow',
+        'Neodymium': 'pink',
+        'Praseodymium': 'lightblue',
+        'Samarium': 'lightgreen',
+        'Lutetium': 'brown'
+    }
+    return color_map.get(commodity, 'gray')
+
+# Create base map
+m = folium.Map(location=[48.3794, 31.1656], zoom_start=6, tiles='cartodb positron')
+
+# Add heatmap layer
+heat_data = [[row['lat'], row['lon']] for idx, row in ukraine_sites.iterrows() 
+             if pd.notna(row['lat']) and pd.notna(row['lon'])]
+plugins.HeatMap(heat_data).add_to(m)
+
+# Create feature groups for each major commodity
+commodity_groups = {}
+for commodity in ukraine_sites['commodity'].unique():
+    commodity_groups[commodity] = folium.FeatureGroup(name=commodity)
+
+# Add points colored by commodity
+for idx, row in ukraine_sites.iterrows():
+    if pd.notna(row['lat']) and pd.notna(row['lon']):
+        popup_text = f"""
+        <b>Name:</b> {row['names']}<br>
+        <b>Commodity:</b> {row['commodity']}<br>
+        <b>Type:</b> {row['type']}<br>
+        <b>Province:</b> {row['province']}<br>
+        """
+        
+        folium.CircleMarker(
+            location=[row['lat'], row['lon']],
+            radius=5,
+            popup=popup_text,
+            color=get_commodity_color(row['commodity']),
+            fill=True,
+            fillOpacity=0.7
+        ).add_to(commodity_groups[row['commodity']])
+
+# Add all feature groups to map
+for group in commodity_groups.values():
+    group.add_to(m)
+
+# Add layer control
+folium.LayerControl().add_to(m)
+
+m
+```
