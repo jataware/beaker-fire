@@ -30,3 +30,16 @@ Here are the columns in the data:
 | top1_deposit_classification_source | Source of classification |
 
 > Note that the location of the mineral site is given by the `centroid_epsg_4326` column which is a point e.g. `POINT(123.456 78.910)`. You can use this to plot the location of the mineral site on a map.
+
+You can use code similar to the following to extract the coordinates from the `centroid_epsg_4326` column and plot the location of the mineral site on a map:
+
+```python
+def extract_coords(point_str):
+    if isinstance(point_str, str):
+        # Remove any extra spaces and split the coordinates
+        coords = point_str.replace('POINT (', '').replace(')', '').split()
+        if len(coords) == 2:
+            return float(coords[1]), float(coords[0])  # lat, lon
+    return None, None
+```    
+
