@@ -198,6 +198,7 @@ for mineral, codes in mineral_codes.items():
     mineral_exports[mineral] = mineral_data
 
 # Create a vibrant but harmonious color scheme
+# Update this with the latest colors for the minerals you're interested in
 color_map = {
     'Iron': '#e63946',      # Rich red
     'Titanium': '#2a9d8f',  # Teal
@@ -207,6 +208,7 @@ color_map = {
 }
 
 # Dictionary of major trading partner coordinates
+# Update this with the latest coordinates for the countries you're interested in
 partner_coords = {
     'Poland': [52.1283, 21.0038],
     'Slovakia': [48.6690, 19.6990],
