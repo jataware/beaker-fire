@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "beaker-minerals"
+name = "beaker-fire"
 dynamic = ["version"]
 description = ''
 readme = "README.md"
@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 license = "MIT"
 keywords = []
 authors = [
-  { name = "Brandon Rose", email = "rose.brandon.m@gmail.com" },
+  { name = "Brandon Rose", email = "brandon@jataware.com" },
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
