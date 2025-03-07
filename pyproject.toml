@@ -40,31 +40,31 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/Brandon Rose/beaker-minerals#readme"
-Issues = "https://github.com/Brandon Rose/beaker-minerals/issues"
-Source = "https://github.com/Brandon Rose/beaker-minerals"
+Documentation = "https://github.com/Brandon Rose/beaker-fire#readme"
+Issues = "https://github.com/Brandon Rose/beaker-fire/issues"
+Source = "https://github.com/Brandon Rose/beaker-fire"
 
 [tool.hatch.version]
-path = "src/beaker_minerals/__about__.py"
+path = "src/beaker_fire/__about__.py"
 
 [tool.hatch.envs.types]
 extra-dependencies = [
   "mypy>=1.0.0",
 ]
 [tool.hatch.envs.types.scripts]
-check = "mypy --install-types --non-interactive {args:src/beaker_minerals tests}"
+check = "mypy --install-types --non-interactive {args:src/beaker_fire tests}"
 
 [tool.coverage.run]
-source_pkgs = ["beaker_minerals", "tests"]
+source_pkgs = ["beaker_fire", "tests"]
 branch = true
 parallel = true
 omit = [
-  "src/beaker_minerals/__about__.py",
+  "src/beaker_fire/__about__.py",
 ]
 
 [tool.coverage.paths]
-beaker_minerals = ["src/beaker_minerals", "*/beaker-minerals/src/beaker_minerals"]
-tests = ["tests", "*/beaker-minerals/tests"]
+beaker_fire = ["src/beaker_fire", "*/beaker-fire/src/beaker_fire"]
+tests = ["tests", "*/beaker-fire/tests"]
 
 [tool.coverage.report]
 exclude_lines = [

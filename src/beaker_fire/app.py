@@ -1,9 +1,9 @@
 from beaker_kernel.lib.app import BeakerApp
 
 
-class BeakerMineralsApp(BeakerApp):
-    slug = "beaker-minerals"
-    name = "Beaker Minerals"
+class BeakerFireApp(BeakerApp):
+    slug = "beaker-fire"
+    name = "Beaker Fire"
 
     pages = {
         'chat': {
