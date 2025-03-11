@@ -45,21 +45,7 @@ class BeakerFireAgent(BeakerAgent):
         
         # Read remaining .md files
         for file in os.listdir(prompts_dir):
-            if file.endswith('.md') and file != 'agent.md' and file != 'acled.md': 
+            if file.endswith('.md') and file != 'agent.md' and file != 'recent_fires.md':  #skip recent fires since its only large fires
                 with open(os.path.join(prompts_dir, file), 'r') as f:
                     self.add_context(f.read())
 
-    @tool(autosummarize=True)
-    async def extract_pdf(self, pdf_path: str, agent: AgentRef) -> str:
-        """
-        Extract the text from a PDF file using PyPDF2.
-
-        Args:
-            pdf_path (str): The path to the PDF file to extract text from.            
-
-        Returns:
-            str: The extracted text from the PDF file.
-        """
-        code = agent.context.get_code("extract_pdf", {'pdf_path': pdf_path})
-        response = await agent.context.evaluate(code)
-        return response["return"]
