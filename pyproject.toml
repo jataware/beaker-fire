@@ -25,7 +25,8 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dependencies = [
-  "beaker_kernel~=1.9.0",
+  "beaker_kernel>=1.9.2b1",
+  "archytas>=1.3.14b1",
   "folium~=0.19.4",
   "seaborn~=0.13.2",
   "plotly~=6.0.0", 
