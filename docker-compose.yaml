@@ -1,0 +1,28 @@
+---
+services:
+  beaker:
+    build:
+      dockerfile: ${DOCKERFILE:-Dockerfile}
+      context: .
+    ports:
+      - "8899:8888"
+    environment:
+      - JUPYTER_SERVER=http://beaker:8888
+      - JUPYTER_BASE_URL=${JUPYTER_BASE_URL:-http://localhost:8899}
+        # - JUPYTER_TOKEN  # Only set in container if set in running environment
+      - PYTHONPATH=/beaker
+      - ENABLE_CHECKPOINTS=true
+      - TOOL_ENABLED_ASK_USER=true
+      - TOOL_ENABLED_RUN_CODE=true
+      - LANGSMITH_TRACING
+      - LANGSMITH_ENDPOINT
+      - LANGSMITH_API_KEY
+      - OPENAI_API_KEY
+      # These veriables are useful when running in server mode
+      - CONFIG_TYPE
+      - LLM_PROVIDER_IMPORT_PATH
+      - LLM_SERVICE_MODEL
+      - LLM_SERVICE_TOKEN
+    volumes:
+      - .:/beaker
+      - ./.beaker.conf:/root/.beaker.conf

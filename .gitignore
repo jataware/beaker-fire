@@ -1,93 +1,69 @@
-# python gitignore
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
-*.egg
-
-# Virtual environments
-venv/
-env/
-.env/
-.venv/
-ENV/
-
-# IDE settings
-.idea/
-.vscode/
-*.swp
-*.swo
-.project
-.pydevproject
-.settings/
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-cover/
-
-# Jupyter Notebook
+**/__pycache__/**
+*.pyc
 .ipynb_checkpoints
-*.ipynb_checkpoints/
+/*.ipynb
 
-# IPython
-profile_default/
-ipython_config.py
 
-# Logs
-*.log
-logs/
-log/
+# Gradle
+.gradle/
+build/
 
-# Environment variables
-.env
-.env.local
-.env.*.local
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
 
-# Documentation
-docs/_build/
-site/
+# IntelliJ
+.idea/*
+*.ipr
+*.iml
+*.iws
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+# NetBeans
+nb-configuration.xml
 
-# Pyre type checker
-.pyre/
+# Visual Studio Code
+.vscode/*
+.factorypath
 
-# pytype static type analyzer
-.pytype/
+# Nova
+.nova/*
 
-# Cython debug symbols
-cython_debug/
-
-# Poetry
-poetry.lock
-
-# pipenv
-Pipfile.lock
-
-# Mac OS
+# OSX
 .DS_Store
 
-# Windows
-Thumbs.db
-Desktop.ini
+# Vim
+*.swp
+*.swo
 
-# Local development settings
-local_settings.py
+# patch
+*.orig
+*.rej
+
+# Local environment
+.env
+
+# Yarn
+**/.yarn/*
+**/!.yarn/patches
+**/!.yarn/plugins
+**/!.yarn/releases
+**/!.yarn/sdks
+**/!.yarn/versions
+**/.pnp.*
+
+# NPM
+node_modules
+dist
+build
+
+# MISC
+create.sql
+.eslintcache
+**/.venv/
+.openai.toml
+shell.nix
+**/.jekyll-cache
+
+.beaker.conf
