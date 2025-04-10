@@ -9,16 +9,20 @@ A beaker agent for wildfire analysis.
 # quickstart
 
 ```
+git lfs fetch
 pip install -e .
 ```
 
 Then, start the notebook with:
 
 ```
+cd src/beaker_fire
 beaker beaker-fire
 ```
 
 It will be available at localhost:8888.
+
+> Note: if you don't run the app from `src/beaker_fire` the agent will be unable to find the `data`.
 
 ## configuration
 
